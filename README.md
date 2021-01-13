@@ -1,5 +1,4 @@
 # DEX-API
-ambging 文档。
 
 ## 准备
 
